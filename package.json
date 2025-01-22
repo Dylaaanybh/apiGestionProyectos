@@ -4,7 +4,9 @@
   "description": "With this api we can solve and make more efficent the management of our proyects and works",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest" ,
+    "start": "nodemon routes/index.js"
+
   },
   "author": "Dylaaanybh",
   "license": "ISC",
